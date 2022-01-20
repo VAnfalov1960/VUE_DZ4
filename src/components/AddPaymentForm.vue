@@ -40,10 +40,6 @@ export default {
       type: Array,
       default: () => [],
     },
-    // categoryListData: {
-    //   type: Array,
-    //   default: () => [],
-    // },
     show: {
       type: Boolean,
       default: false,
